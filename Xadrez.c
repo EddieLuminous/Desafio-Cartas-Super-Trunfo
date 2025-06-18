@@ -44,6 +44,6 @@ int main() {
         }
     }
 
-    printf("\n=== FIM DA SIMULAÇÃO ===\n");
+    printf("\n*** FIM DA SIMULAÇÃO ***\n"); //Yay
     return 0;
 }
